@@ -1,0 +1,21 @@
+{
+  "people": [
+    {
+      "name": "Dorklefin",
+      "entries": [
+        {
+          "entry": "Europa",
+          "reason": "A planet full of ice and water is pretty cool. I hope there is life here."
+        },
+        {
+          "entry": "Euporie",
+          "reason": "Sounds similar to Europa but nobody really talks about it."
+        },
+        {
+          "entry": "Io",
+          "reason": "More like I/O"
+        }
+      ]
+    }
+  ]
+}
